@@ -73,7 +73,7 @@ Voters can view the list of candidates and cast their votes securely.
 
 ### 4. **Admin Login and Menu**
 Admins can manage elections, track activity logs, and view results.  
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Login and Menu](screenshots/admin_login.png)
 
 ### 5. **Election Results**
 Admins have access to real-time election results with detailed breakdowns.  
