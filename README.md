@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-Programming-orange)](https://www.oracle.com/java/)  
 [![SDG 16](https://img.shields.io/badge/SDG-16-blue)](https://sdgs.un.org/goals/goal16)  
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/Aleeiijx/voting-system)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/Aleeiijx/sample.git)
 
 ---
 
@@ -115,7 +115,7 @@ java main.Main
 ## 📖 Documentation
 Refer to the [User Guide](docs/user_guide.md) for detailed usage instructions.
 
-For more information, visit the [GitHub Repository](https://github.com/Aleeiijx/voting-system).
+For more information, visit the [GitHub Repository](https://github.com/Aleeiijx/sample.git).
 
 ---
 
