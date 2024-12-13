@@ -118,7 +118,6 @@ java main.Main
 ---
 
 ## 📖 Documentation
-Refer to the [User Guide](docs/user_guide.md) for detailed usage instructions.
 
 For more information, visit the [GitHub Repository](https://github.com/Aleeiijx/sample.git).
 
