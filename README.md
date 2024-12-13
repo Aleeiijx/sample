@@ -89,10 +89,11 @@ Clone the repository to your local machine:
 git clone https://github.com/Aleeiijx/voting-system.git
 cd voting-system
 ```
+```bash
 git add screenshots/main_menu.png
-git commit -m "Add Main Menu screenshot"
+git commit -m "Add main menu screenshot"
 git push origin main
-
+```
 
 ### 2. Set Up the Environment
 Ensure you have **Java JDK 11+** installed. Compile the project:
